@@ -22,6 +22,10 @@ No	MaterialDescription	Purpose	ISBN	Type	Note	Author	Publisher
 * 6	Statistics for Data Science with Python	reference		online course		Coursera	https://www.coursera.org/learn/statistics-for-data-science-python 
 * 7	Python Project for Data Science	reference		online course		Coursera	https://www.coursera.org/learn/python-project-for-data-science?specialization=ibm-data-science 
 
+** Ôn tập:
+* 1. Python: https://titv.vn/courses-page/lap-trinh-python-co-ban/
+* 2. SQL: https://www.youtube.com/playlist?list=PLyxSzL3F7484deka_j1czssCiHygV6oF-
+
 
 ### Đánh giá môn học:
 * 1) On-going Assessment
