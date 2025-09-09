@@ -40,3 +40,25 @@ No	MaterialDescription	Purpose	ISBN	Type	Note	Author	Publisher
 	- Final Project: 10%
 	- Đánh giá vấn đáp: 60%
 
+#	Project	CLO
+
+Project requirements		
+* 1	Business Understanding and Analytic Approach	CLO1, CLO2, CLO4
+* 2	Data Collection, Understanding, Preparation	CLO1, CLO2, CLO4
+* 3	Data Analysis with SQL	CLO2, CLO3, CLO4
+* 4	Data Analysis with Python	CLO3, CLO4, CLO7
+* 5	Data Visualization	CLO3, CLO6, CLO7
+* 6	Regression Analysis	CLO3, CLO6, CLO7
+* 7	Data Analysis with tool	CLO3, CLO5
+
+Project tasks		
+* 1	Understand the problem to be solved, choose the approach	CLO1, CLO2, CLO4
+* 2	Collect data, understand data and perform data preprocessing	CLO1, CLO2, CLO4
+* 3	Data Analysis with SQL	CLO2, CLO3, CLO4
+* 4	Data Analysis with Python	CLO3, CLO4, CLO7
+* 5	Data Visualization with Python	CLO3, CLO6, CLO7
+* 6	Data Analysis Using Regression Analysis	CLO3, CLO6, CLO7
+* 7	Use data analysis tools: R studio, Watson Studio, Power BI, Looker studio	CLO3, CLO5
+
+Project presentation		
+* Follow rubrics	CLO1, CLO2, CLO3, CLO4, CLO5, CLO6, CLO7
