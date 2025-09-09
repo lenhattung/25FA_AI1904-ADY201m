@@ -12,3 +12,10 @@
 ### Tài nguyên:
 
 * Syllabus: https://flm.fpt.edu.vn/gui/role/student/SyllabusDetails?sylID=13301
+
+### Đánh giá môn học:
+* 1) On-going Assessment
+	- 1 Assignment: 10%
+	- 2 progress tests: 20%
+	- 6 lab: 30%
+	- 1 Final Exam: 40%
