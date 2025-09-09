@@ -19,3 +19,10 @@
 	- 2 progress tests: 20%
 	- 6 lab: 30%
 	- 1 Final Exam: 40%
+	
+* 2) Projects:
+	- Project Planning : 10%
+	- On going assessment : 20%
+	- Final Project: 10%
+	- Đánh giá vấn đáp: 60%
+
