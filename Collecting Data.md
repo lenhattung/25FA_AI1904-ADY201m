@@ -8,4 +8,4 @@
 ## Thu thập qua API và web scraping
 
 * API (Application Programming Interface) cho phép truy cập dữ liệu từ các nền tảng như Twitter, Facebook, Google Analytics một cách có cấu trúc. 
-* Web scraping sử dụng các công cụ như BeautifulSoup (Python) hoặc Scrapy để tự động thu thập thông tin từ các trang web.
+* Web scraping sử dụng các công cụ như Selenium, BeautifulSoup (Python) hoặc Scrapy để tự động thu thập thông tin từ các trang web.
