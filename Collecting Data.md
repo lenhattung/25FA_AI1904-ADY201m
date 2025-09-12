@@ -14,3 +14,8 @@
 * Khảo sát trực tuyến thông qua Google Forms, SurveyMonkey hoặc Typeform giúp thu thập ý kiến và hành vi người dùng. 
 * Phỏng vấn sâu và focus group cung cấp thông tin định tính chất lượng cao. 
 * Quan sát trực tiếp trong môi trường tự nhiên mang lại dữ liệu hành vi thực tế.
+
+## Thu thập qua cảm biến và IoT
+
+* Cảm biến vật lý có thể đo nhiệt độ, độ ẩm, áp suất, hoặc chuyển động. Thiết bị GPS cung cấp dữ liệu vị trí và di chuyển. 
+* Camera và microphone thu thập dữ liệu hình ảnh và âm thanh.
