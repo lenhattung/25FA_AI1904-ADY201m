@@ -19,3 +19,11 @@
 
 * Cảm biến vật lý có thể đo nhiệt độ, độ ẩm, áp suất, hoặc chuyển động. Thiết bị GPS cung cấp dữ liệu vị trí và di chuyển. 
 * Camera và microphone thu thập dữ liệu hình ảnh và âm thanh.
+
+## Dữ liệu từ mạng xã hội và digital footprint
+
+* Social media monitoring theo dõi hoạt động trên Facebook, Instagram, LinkedIn. Website analytics từ Google Analytics cung cấp thông tin về hành vi người dùng. Log files từ server và ứng dụng chứa nhiều thông tin hữu ích.
+
+## Dữ liệu thời gian thực (Real-time)
+
+* Streaming data từ các nguồn như sensor networks, financial markets, hoặc social media feeds. Event tracking ghi lại các hành động của người dùng trên website hoặc ứng dụng.
