@@ -9,3 +9,6 @@
 
 * API (Application Programming Interface) cho phép truy cập dữ liệu từ các nền tảng như Twitter, Facebook, Google Analytics một cách có cấu trúc. 
 * Web scraping sử dụng các công cụ như Selenium, BeautifulSoup (Python) hoặc Scrapy để tự động thu thập thông tin từ các trang web.
+
+## Khảo sát và nghiên cứu thực địa
+* Khảo sát trực tuyến thông qua Google Forms, SurveyMonkey hoặc Typeform giúp thu thập ý kiến và hành vi người dùng. Phỏng vấn sâu và focus group cung cấp thông tin định tính chất lượng cao. Quan sát trực tiếp trong môi trường tự nhiên mang lại dữ liệu hành vi thực tế.
