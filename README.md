@@ -64,3 +64,8 @@ Project tasks
 
 Project presentation		
 * Follow rubrics	CLO1, CLO2, CLO3, CLO4, CLO5, CLO6, CLO7
+
+## Videos:
+
+* Slot 1: https://youtu.be/eLsXLCQa788
+* Slot 2: https://youtu.be/MStCdHx_xR8
