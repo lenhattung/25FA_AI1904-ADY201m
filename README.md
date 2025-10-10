@@ -65,6 +65,12 @@ Project tasks
 Project presentation		
 * Follow rubrics	CLO1, CLO2, CLO3, CLO4, CLO5, CLO6, CLO7
 
+## Điểm cộng:
+–  IBM Data Science Professional Certificate
+–  Địa chỉ:https://www.coursera.org/professional-certificates/ibm-data-science
+–  Sv tự học vì tương ứng với Learning outcome của môn học và hỗ trợ của GV (nếu SV yêu cầu)
+–  Get certificate và deposit vào phần assignment hay lab (10% số điểm đạt được)
+
 ## Videos:
 
 * Slot 1: https://youtu.be/eLsXLCQa788
