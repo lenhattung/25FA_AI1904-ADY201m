@@ -70,6 +70,7 @@ Project presentation
 –  Địa chỉ:https://www.coursera.org/professional-certificates/ibm-data-science
 –  Sv tự học vì tương ứng với Learning outcome của môn học và hỗ trợ của GV (nếu SV yêu cầu)
 –  Get certificate và deposit vào phần assignment hay lab (10% số điểm đạt được)
+-  Nộp vào slot 15
 
 ## Videos:
 
